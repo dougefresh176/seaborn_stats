@@ -1,2 +1,2 @@
 # seabornstats
-KDEs and Multiple Regression Plots with Seaborn
+KDEs, Multiple Regression Plots, and Stocks Analysis/Viz with Seaborn
